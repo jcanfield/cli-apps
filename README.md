@@ -195,6 +195,7 @@ Applications to launch/execute programs, either interactively, automatically, in
 * [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - A Unix batch system that can be used to add the Linux commands to the queue and execute them one after the other in numerical order (ascending order, to be precise). This can be very useful when you have to run a lots of commands, but you don't want to waste time waiting for one command to finish and run the next command. You can queue it all up and Task Spooler will execute them one by one. In the mean time, you can do other activities.
 * [taverner](https://github.com/vagos/taverner) - CLI launcher menu for games (or anything), the UNIX way.
 * [Violet](https://github.com/braheezy/violet) - Colorful TUI frontend to run Vagrant commands.
+* [x-cmd](https://www.x-cmd.com) - x-cmd is a command-line library/toolbox developed using Posix Shell compatible syntax, prioritizing flexibility and lightweight design.
 
 ## <a name="cheatsheet"></a>Commands cheatsheet and snippets
 
